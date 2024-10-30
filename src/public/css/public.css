@@ -1,0 +1,13 @@
+/* public facing css */
+
+.single-product .product-type-charter_booking .entry-content .woocommerce {
+	max-width: 1366px !important;
+}
+
+.cb-hold-summary {
+	display: flex;
+	clear: both;
+}
+.cb-single-book-now-tab {
+    max-width: 1366px !important;
+}
